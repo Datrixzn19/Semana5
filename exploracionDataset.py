@@ -17,4 +17,3 @@ print("Comando .tail()")
 print(df.tail(5))  #Muestra los ultimos n registros 
 
 
-            #Comandos para dibujar las graficas 
